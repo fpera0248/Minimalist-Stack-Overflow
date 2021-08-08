@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+"name": "Minimalist Stack Overflow Theme",
+"version": "1.0.0",
+"content_scripts": [
+    {
+      "matches": ["https://stackoverflow.com/questions*"
+    ],
+      "css": [
+          "style.css"
+        ],
+      "js": [
+          "script.js"
+        ]
+    }
+  ]
+}
