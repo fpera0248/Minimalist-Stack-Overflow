@@ -2,6 +2,8 @@
 
 Developed and released a Chrome Extension using JavaScript and CSS to alter the user browser’s styling and layout of the Stack Overflow page to be more minimalist
 
+This theme removes the sidebars and ads to simply show the answers to the questions you are looking for. It also highlights the answer with the most upvotes/the answer approved by the creator of the qeustion in a green text box. 
+
 ## Walkthrough
 
 ![StackOverflow Image](https://user-images.githubusercontent.com/73323113/128649434-23558ce8-1e09-452f-a78f-b7efbeb86af2.jpg)
@@ -10,3 +12,8 @@ Developed and released a Chrome Extension using JavaScript and CSS to alter the 
 
 ![StackOverflow Image3](https://user-images.githubusercontent.com/73323113/128649443-340ee88e-7428-4994-b02f-4d950c7713d4.jpg)
 
+## Technologies Used
+
+Javascript
+
+CSS
