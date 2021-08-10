@@ -15,5 +15,4 @@ This theme removes the sidebars and ads to simply show the answers to the questi
 ## Technologies Used
 
 Javascript
-
 CSS
